@@ -1,0 +1,33 @@
+.todo-container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+.todo-container h1 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    text-align: center;
+    color: #333;
+}
+
+.todo-form {
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.todo-form label {
+    font-weight: bold;
+}
+
+.action-buttons {
+    text-align: center;
+}
+
+.action-buttons button {
+    margin-top: 20px;
+}
